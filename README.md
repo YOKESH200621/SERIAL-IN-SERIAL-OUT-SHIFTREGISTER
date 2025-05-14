@@ -73,4 +73,4 @@ SISO Shift Register using verilog and validating their functionality using their
 
 
 
-**RESULTS**
+
